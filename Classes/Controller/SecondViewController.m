@@ -33,7 +33,7 @@
     
     
     SecondModel *model = [[SecondModel alloc]init];
-    model.author = [NSString stringWithFormat:@"中国核电网  | 发表于：2015-11-12 "];
+    model.author = [NSString stringWithFormat:@"中国核电网   | 发表于：2015-11-12 "];
     model.articleItem = [NSString stringWithFormat:@"   焦虑的核电：舆论之下\n   天使还是恶魔？"];
     //打开文件
     model.article = NuclearArticle;
